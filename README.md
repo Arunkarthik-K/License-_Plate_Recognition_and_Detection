@@ -1,1 +1,1 @@
-# License-_Plate_Recognition_and_Detection
+# License_Plate_Recognition_and_Detection
